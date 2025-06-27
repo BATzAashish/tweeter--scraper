@@ -26,6 +26,6 @@ tweet-scraper/
 
 1. **Clone the repository:**
    ```bash
-  [ git clone https://github.com/YOUR_USERNAME/tweet-scraper.git](https://github.com/BATzAashish/tweeter--scraper.git)
+   [git clone https://github.com/YOUR_USERNAME/tweet-scraper.git](https://github.com/BATzAashish/tweeter--scraper.git)
    cd tweet-scraper
    ```
