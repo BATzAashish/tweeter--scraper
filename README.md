@@ -22,3 +22,10 @@ tweet-scraper/
 │   └── save.py
 └── data/
 ```
+## Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/tweet-scraper.git
+   cd tweet-scraper
+   ```
