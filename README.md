@@ -4,7 +4,7 @@ A Python-based tool to extract tweets from a user account on X (formerly Twitter
 
 - Extract tweets from any public X/Twitter user account.
 - Save tweets as CSV in a `data/` folder.
-- Easy to configure for API or non-API (snscrape) usage.
+- Easy to configure for API  usage.
 - Modular code structure for easy extension.
 
 
